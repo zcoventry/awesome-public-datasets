@@ -1,6 +1,5 @@
 Awesome Public Datasets
 =======================
-
 This list of public data sources are collected and tidyed from blogs, answers,
 and user reponses. Most of the data sets listed below are free, however, some
 are not. This list comes from https://github.com/caesar0301/awesome-public-datasets.
